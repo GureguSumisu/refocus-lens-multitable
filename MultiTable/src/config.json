@@ -1,5 +1,6 @@
-{
-  "awesome": {
+ {
+
+ "awesome": {
     "heading": "Awesome!",
     "text": "Everything is OK right now."
   },
@@ -73,7 +74,7 @@
     },
     "legend": {
       "blink": {
-        "label": "blink = Recent Status Change",
+        "label": "blink = Changed",
         "tooltip": {
           "part1": "Blinks if the status changed in the last",
           "part2": "minutes."

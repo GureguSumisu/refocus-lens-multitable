@@ -9,9 +9,12 @@
 /**
  * ./MultiTable/src/lens.css
  */
+
+
 body {
   background-color: #212121 !important;
   color: #fff !important;
+
 }
 
 .subject-group {
@@ -31,6 +34,7 @@ body {
 .sample,
 .subject {
   cursor: pointer;
+  
 }
 
 .legend-item {

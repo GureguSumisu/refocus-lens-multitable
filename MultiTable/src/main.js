@@ -17,6 +17,9 @@ require('script!./lib/jquery.min.js'); // for bootstrap
 require('script!./lib/tether.min.js'); // for bootstrap tooltips
 require('./lib/bootstrap.min.js'); // for bootstrap
 require('./lib/bootstrap.min.css'); // bootstrap
+
+require('./compactlens.css'); // for Compact Lens customizations
+
 const moment = require('moment');
 const tz = require('moment-timezone');
 
